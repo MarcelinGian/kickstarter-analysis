@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-#### louise is a playwrite that wants to start a crowdfunding campaign to help fund her play, Fever. She's estimating the buget for this play to be over $10,000. The Purpose of this analysis of excel data is to understand whether thare are specific factors that make a project's fundraising canpaign successful.
+##### louise is a playwrite that wants to start a crowdfunding campaign to help fund her play, Fever. She's estimating the buget for this play to be over $10,000. The Purpose of this analysis of excel data is to understand whether thare are specific factors that make a project's fundraising canpaign successful.
 
 ## Analysis and Challenges
 
