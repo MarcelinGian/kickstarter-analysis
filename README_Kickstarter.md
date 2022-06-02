@@ -8,7 +8,9 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-##### Based on the excel data we can see that campaigns in the "theater" category were most successful when they were launched in the month of May- Follwed by the month of June and then July. 
+##### For this section of my analysis I used data in the Kickstarter worksheet to create a pivot table. I then filtered the pivot table based on "Parent Category" (which was set to "theater) & "Years" to see how a theater campaign's Launch Date correlated with the campaign's subsequent success or failure. Finally, i created a line graph using this filtered data.
+
+#### Based on the excel data we can see that campaigns in the "theater" category were most successful when they were launched in the month of May- Follwed by the month of June and then July. 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/105818879/171560330-dbc35a5d-ad53-4559-a528-51d769b5716d.png)
 
 ### Analysis of Outcomes Based on Goals
