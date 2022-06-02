@@ -13,9 +13,8 @@
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/105818879/171560330-dbc35a5d-ad53-4559-a528-51d769b5716d.png)
 
 ### Analysis of Outcomes Based on Goals
-##### For this section of my analysis I used the Kickstarter data to create a visualization of the percentage of successful, failed, and canceled plays based on the funding goal amount. First I used the excel "COUNTIFS()" function to section the data in increments by fundraising goal. With these numbers calculated I then used the "SUM()" function to add up the successful, failed, and canceled campaign totals by aforementioned increments. Lastly- I used the "ROUND()" function to translate these numbers into percentages that i could use in my pivot chart.
+##### For this section of my analysis I used the Kickstarter data to create a visualization of the percentage of successful, failed, and canceled plays based on the funding goal amount. First I used the excel "COUNTIFS()" function to section the data in increments by fundraising goal. With these numbers calculated I then used the "SUM()" function to add up the successful, failed, and canceled campaign totals by aforementioned increments. Lastly- I used the "ROUND()" function to translate these numbers into percentages that I could use in my pivot chart.
 
-##### Based on my excel data calculations we can see that play-category crowdfunding campaigns with fundraising goals of less than $5,000 had the highest probability of success compared to capaigns with higher goals.
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/105818879/171565312-c9994b61-141c-472a-a309-cabd13b7b4c0.png)
 
 ### Challenges and Difficulties Encountered
@@ -23,11 +22,13 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
- - Based on the excel data we can see that campaigns in the "theater" category were most successful when they were launched in the month of May- Follwed by the months of June and then July.
+  - Based on the excel data we can see that campaigns in the "theater" category were most successful when they were launched in the month of May- Follwed by the months of June and then July.
 
 - What can you conclude about the Outcomes based on Goals?
- - Based on my excel data calculations we can see that play-category crowdfunding campaigns with fundraising goals of less than $5,000 had the highest probability of success compared to capaigns with higher goals.
+  - Based on my excel data calculations we can see that play-category crowdfunding campaigns with fundraising goals of less than $5,000 had the highest probability of success compared to capaigns with higher goals.
 
 - What are some limitations of this dataset?
-
+  -This dataset does not explicilty display play-specific outcomes based on launch date, rather it all of the "theater" category which- includes physical theater spaces, musicals, as well as plays. This limitation makes the data less relevant to Louise because she's trying to fund a play specifically.
+  
 - What are some other possible tables and/or graphs that we could create?
+  - We could create an "Outcomes Based on Launch Date" graph specifically for the play subcategory. 
